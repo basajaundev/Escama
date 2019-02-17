@@ -1,0 +1,1 @@
+pyi-makespec escama\escama.py

@@ -1,0 +1,1 @@
+pyinstaller escama\escama.spec --add-binary C:\Python37\Lib\site-packages\cv2\opencv_ffmpeg342_64.dll;.
