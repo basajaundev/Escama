@@ -1,0 +1,7 @@
+__title__ = "Escama"
+__author__ = "David Román <GallaZ>"
+__description__ = "Escaner de cartas magic"
+__version__ = "0.1.6a"
+__date__ = "FEB, 2019"
+__email__ = "gallaz@gmx.com"
+__site__ = "http://basajaundev.tk"
